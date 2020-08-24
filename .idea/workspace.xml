@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6aa29e1-583e-42cf-8625-f9fe0d675627" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="unittestingjava" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e37tNfU1qWoiq6jj4upCZ0PQ4D" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.adambaranowski.testing.homework" />
+      <recent name="pl.adambaranowski.testing.cart" />
+      <recent name="pl.adambaranowski.testing.account" />
+      <recent name="pl.adambaranowski.testing" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.adambaranowski.testing.cart" />
+      <recent name="pl.adambaranowski.testing.order" />
+      <recent name="pl.adambaranowski.testing.account" />
+      <recent name="pl.adambaranowski.testing.homework" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.adambaranowski.testing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MealRepositoryTest.shouldBeAbleToRemoveMealFromRepository">
+    <configuration name="MealRepositoryTest.shouldBeAbleToAddMealToRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.adambaranowski.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.adambaranowski.testing" />
+      <option name="MAIN_CLASS_NAME" value="pl.adambaranowski.testing.MealRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToAddMealToRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MealRepositoryTest.shouldBeAbleToRemoveMealFromRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.adambaranowski.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.adambaranowski.testing" />
+      <option name="MAIN_CLASS_NAME" value="pl.adambaranowski.testing.MealRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToRemoveMealFromRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitServiceTest.addingCargoThatDoesntExistShouldThrowAnException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.adambaranowski.testing.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.adambaranowski.testing.homework" />
+      <option name="MAIN_CLASS_NAME" value="pl.adambaranowski.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="addingCargoThatDoesntExistShouldThrowAnException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitServiceTest.getUnitOnShouldReturnUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.adambaranowski.testing.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.adambaranowski.testing.homework" />
+      <option name="MAIN_CLASS_NAME" value="pl.adambaranowski.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="getUnitOnShouldReturnUnit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitServiceTest.getUnitOnShouldThrowExceptionWhenNoUnitFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestingjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.adambaranowski.testing.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.adambaranowski.testing.homework" />
+      <option name="MAIN_CLASS_NAME" value="pl.adambaranowski.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="getUnitOnShouldThrowExceptionWhenNoUnitFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tags" type="JUnit" factoryName="JUnit">
+      <module name="unittestingjava" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="fries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.tags" />
+      <item itemvalue="JUnit.UnitServiceTest.addingCargoThatDoesntExistShouldThrowAnException" />
+      <item itemvalue="JUnit.UnitServiceTest.getUnitOnShouldReturnUnit" />
+      <item itemvalue="JUnit.UnitServiceTest.getUnitOnShouldThrowExceptionWhenNoUnitFound" />
+      <item itemvalue="JUnit.MealRepositoryTest.shouldBeAbleToAddMealToRepository" />
+      <item itemvalue="JUnit.MealRepositoryTest.shouldBeAbleToRemoveMealFromRepository" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MealRepositoryTest.shouldBeAbleToRemoveMealFromRepository" />
+        <item itemvalue="JUnit.MealRepositoryTest.shouldBeAbleToAddMealToRepository" />
+        <item itemvalue="JUnit.UnitServiceTest.getUnitOnShouldThrowExceptionWhenNoUnitFound" />
+        <item itemvalue="JUnit.UnitServiceTest.getUnitOnShouldReturnUnit" />
+        <item itemvalue="JUnit.UnitServiceTest.addingCargoThatDoesntExistShouldThrowAnException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6aa29e1-583e-42cf-8625-f9fe0d675627" name="Default Changelist" comment="" />
+      <created>1593538636613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593538636613</updated>
+      <workItem from="1593538650224" duration="4061000" />
+      <workItem from="1593884518124" duration="2228000" />
+      <workItem from="1593951466709" duration="13932000" />
+      <workItem from="1594032047942" duration="10900000" />
+      <workItem from="1594121425189" duration="10038000" />
+      <workItem from="1594232401285" duration="7567000" />
+      <workItem from="1594292354044" duration="13712000" />
+      <workItem from="1594461900697" duration="3177000" />
+      <workItem from="1594557208618" duration="28000" />
+      <workItem from="1594669704868" duration="2503000" />
+      <workItem from="1594724055249" duration="4401000" />
+      <workItem from="1595506860173" duration="1275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
